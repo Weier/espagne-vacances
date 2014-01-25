@@ -1,0 +1,13 @@
+acces:jean:
+
+https://oberon.kreativmedia.ch:8443
+
+mot de passe comme d'hab.
+
+web-creation.ch:4882
+jgdiserens
+79thessali
+
+ftp: ftp.espagne-vacances.ch/httpdocs
+weierand
+

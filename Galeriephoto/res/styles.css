@@ -1,0 +1,121 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #aaaaaa;
+	background-color: #ffffff;
+	margin-top: 0px;
+}
+
+html {
+	scrollbar-face-color:#DDDDDD;
+	scrollbar-highlight-color:#cccccc;
+	scrollbar-3dlight-color:#cccccc;
+	scrollbar-darkshadow-color:#cccccc;
+	scrollbar-shadow-color:#cccccc;
+	scrollbar-arrow-color:#444444;
+	scrollbar-track-color:#EEEEEE;
+}
+
+a:link {
+	text-decoration: none;
+ 	color: #888888;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #888888;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #000000;
+}
+
+.current {
+ 	color: #000000;
+	background-color: #cccccc;
+}
+
+.cthumb {
+	background-color: #cccccc;
+	border: 0px;
+}
+
+.thumb {
+	background-color: #ffffff;
+	border: 0px;
+}
+
+.image { margin: 0px; border-width: 1px; border: 1px solid;}
+a:link .image { border-color: #aaaaaa; color: #aaaaaa;}
+a:visited .image { border-color: #666666; color: #666666;}
+a:hover .image { border-color: #ffffff; color: #ffffff;}
+
+.slideImage { border-width: 0px; border: 0px solid; border-color: #ffffff;}
+a:link .slideImage { border-color: #ffffff;}
+a:visited .slideImage { border-color: #ffffff;}
+
+.title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #888888;
+}
+
+.title a:link {
+	text-decoration: none;
+	color: #888888;
+}
+
+.title a:visited {
+	text-decoration: none;
+	color: #888888;
+}
+
+.title a:hover {
+	text-decoration: none;
+	color: #000000;
+}
+
+.infotable {
+	border: 1px solid #cccccc;
+	background-color: #eeeeee;
+	border-collapse: collapse;
+}
+
+.infotable td {
+	border: 1px solid #cccccc;
+}
+
+.infotable table td {
+	border: 0px;
+}
+
+.dirname {
+	font-size: 12px;
+	font-weight: bold;
+	color: #aaaaaa;
+}
+
+.comment {
+	color: #444444;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.smalltxt {
+	color: #888888;
+	font-size: 11px;
+}
+
+.xsmalltxt {
+	color: #aaaaaa;
+	font-size: 9px;
+}
+
+.newlabel {
+	font-size: 8px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #888888;
+}

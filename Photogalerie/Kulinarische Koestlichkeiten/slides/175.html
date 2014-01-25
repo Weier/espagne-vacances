@@ -1,0 +1,156 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+
+
+
+<HTML>
+<HEAD>
+<!-- saved from url=(0013)about:internet -->
+<TITLE>Kulinarische Koestlichkeiten: 175</TITLE>
+<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
+<meta name="Keywords" content="photo album,gallery,photo gallery,digital,photo,gallery,online">
+<meta http-equiv="Page-Enter" content="blendTrans(Duration=0.5)">
+<meta http-equiv="Page-Exit" content="blendTrans(Duration=0.5)">
+
+<link href="../../res/styles.css" rel="stylesheet">
+<script language="javascript" type="text/javascript">
+<!--keyboard controls-->
+function keypress(e){
+  if(!e) var e=window.event;
+  if(e.keyCode) keyCode=e.keyCode; else if(e.which) keyCode=e.which;
+  switch(keyCode) {
+	case 8: window.location="../index_de.html"; return false; break;
+	
+	case 63234: case 37: window.location="174.html"; return false; break;
+	case 63273: case 36: window.location="160.html"; return false; break;
+	case 63275: case 35: window.location="175.html"; return false; break;
+	case 32: show_down(); setTimeout('show_out()', 200); return false; break;
+  }
+  return true;
+}
+function keypresslistener() {
+if(document.all) { document.onkeydown = keypress; }
+else if(document.layers || document.getElementById) { document.onkeypress = keypress; }
+}
+idx0 = new Image(31,31); idx0.src = "../../res/idx.gif";
+idx1 = new Image(31,31); idx1.src = "../../res/idx1.gif";
+next0 = new Image(31,31);next0.src = "../../res/next.gif";
+next1 = new Image(31,31);next1.src = "../../res/next1.gif";
+prev0 = new Image(31,31);prev0.src = "../../res/prev.gif";
+prev1 = new Image(31,31);prev1.src = "../../res/prev1.gif";
+<!-- Slideshow code-->
+show0 = new Image(31,31);show0.src = "../../res/show.gif";
+show1 = new Image(31,31);show1.src = "../../res/show1.gif";
+stop0 = new Image(31,31);stop0.src = "../../res/stop.gif";
+stop1 = new Image(31,31);stop1.src = "../../res/stop1.gif";
+
+var show_param = -1; // -1 = slideshow stopped
+var delay = 3;
+if(window.location.search.length > 1){
+  var parms = window.location.search.substring(1,location.search.length).split("&");
+    for(var i = 0; i < parms.length; i++) {		
+      if(parms[i].substring(0, parms[i].indexOf("=")) == "show_param") 
+        delay = show_param = parms[i].substring(parms[i].indexOf("=") + 1, parms[i].length);
+}}
+var show_delay = show_param;
+function show_timer() {
+  if(show_delay >= 0){
+    show_delay--;
+    if(show_delay < 0 && show_param > 0) {
+      show_down(); setTimeout('show_out()', 200);
+    }
+    else { if(show_param > 0) { window.status='Time left: '+(show_delay+1)+' s'; }}
+  }
+  setTimeout('show_timer()', 1000);	
+}
+function show_over()
+{ if(show_param >= 0) { document.show.src=stop1.src; }
+  else { document.show.src=show1.src; }
+  window.status='Diaschau starten/anhalten - Doppelklick für Geschwindigkeitsänderung';
+}
+function show_out()
+{ if(show_param >= 0) { document.show.src=stop0.src; }
+  else { document.show.src=show0.src; }
+}
+function show_down()
+{ if(show_param >= 0) { show_param = -1; document.show.src=stop1.src; window.status=''; } 
+  else { show_param = delay; document.show.src=show1.src; } 
+  show_delay = show_param; 
+}
+function change_delay()
+{ delay = prompt('Verzögerung', (show_param < 0)? 3:show_param);
+  show_param = show_delay = delay; document.show.src=show1.src;
+}
+
+</script>
+
+
+<style type="text/css">
+  body { background-image: url(../../res/bg.gif); background-repeat: repeat-x; }
+</style>
+</HEAD>
+
+<BODY ID="slide" onload="show_timer(); show_out(); keypresslistener();">
+<CENTER>
+<TABLE style="height:54px;" cellspacing="0" cellpadding="0" border="0">
+<TR><TD valign="middle">
+<!-- Header with Multilevel index links for slide pages -->
+<TABLE style="width:512px;" cellspacing="0" cellpadding="0" border="0">
+<TR>
+<TD style="width:31px;"><a href="../index_de.html" onmouseover="document.idx.src=idx1.src" onmouseout="document.idx.src=idx0.src"><img src="../../res/idx.gif" width="31" height="31" border="0" title="Indexseite" name="idx" alt=""></a></TD>
+<TD style="width:20px;"><IMG SRC="../../res/hdr_left.gif" width="20" height="31" border="0" alt=""></TD>
+<TD align="left" valign="middle" style="background:url(../../res/hdr_mid.gif);" class="title" nowrap="nowrap">
+
+<a href="../../index_de.html">Photogalerie</a> / <a href="../index_de.html">Kulinarische Koestlichkeiten</a> 
+</TD>
+<TD style="width:20px;"><IMG SRC="../../res/hdr_right.gif" width="20" height="31" border="0" alt=""></TD>
+<TD style="width:31px;">
+  <a href="174.html" onmouseover="document.prev.src=prev1.src" onmouseout="document.prev.src=prev0.src"><img src="../../res/prev.gif" width="31" height="31" border="0" title="Vorheriges Bild" name="prev" alt=""></a></TD>
+<TD style="width:31px;">
+  <IMG SRC="../../res/next_disabled.gif" width="31" height="31" title="Letzte Seite" border="0" alt=""></TD>
+<TD style="width:31px;"><a href="javascript:void(0)" onmouseover="show_over();" onmouseout="show_out();" onmousedown="show_down();" ondblclick="change_delay();"><img src="../../res/show.gif" width="31" height="31" border="0" title="Diaschau starten/anhalten - Doppelklick für Geschwindigkeitsänderung" name="show" alt=""></a></TD>
+</TR></TABLE>
+</TD></TR></TABLE>
+<TABLE style="height:14px;" cellspacing="0" cellpadding="0" border="0"><TR><TD>
+&nbsp;</TD></TR></TABLE>
+
+<!-- Comment and image data at TOP -->
+<TABLE style="width:512px;" class="infotable" cellspacing="0" cellpadding="2">
+  <TR><TD style="width:493px;" align="center" valign="middle" class="smalltxt"><span class="comment">Und nicht zu vergessen: zum Abschluss einen Carachilo!</span></TD>
+  
+  <TD align="center" valign="middle"><A href="175.JPG" target="_blank"><IMG src="../../res/download.gif" title="Bild speichern - 1892kB" width="17" height="17" border="0" alt=""></A></TD><!-- Download Image -->
+  </TR>
+  <TR><TD colspan="2" align="center" valign="middle" class="smalltxt">Bild |<a href="160.html"> 1 </a>|<a href="161.html"> 2 </a>|<a href="162.html"> 3 </a>|<a href="163.html"> 4 </a>|<a href="164.html"> 5 </a>|<a href="165.html"> 6 </a>|<a href="166.html"> 7 </a>|<a href="167.html"> 8 </a>|<a href="168.html"> 9 </a>|<a href="169.html"> 10 </a>|<a href="170.html"> 11 </a>|<a href="171.html"> 12 </a>|<a href="172.html"> 13 </a>|<a href="173.html"> 14 </a>|<a href="174.html"> 15 </a>|<span class="current"> 16 </span>|</TD></TR>
+  
+  
+</TABLE><BR>
+<!-- Imagemap for easy navigation -->
+<map name="imagemap" style="text-decoration:none">
+  <area coords="0,0,170,384" href="174.html" TITLE="Vorheriges Bild" alt="">
+  <area coords="341,0,512,384" TITLE="Letzte Seite" alt="">
+  <area coords="170,0,341,384" href="../index_de.html" TITLE="Indexseite" alt="">
+</map>
+<TABLE style="width:512px;" border="0" cellspacing="0" cellpadding="0">
+
+  <TR><TD align="center"> <!-- Image without original -->
+    <IMG SRC="175.JPG" class="slideImage" width="512" height="384" TITLE="Verkleinertes Bild [175.JPG - 1892kB]" usemap="#imagemap" alt="">
+  </TD></TR>
+</TABLE>
+<BR>
+<!-- Comment and image data at BOTTOM -->
+<TABLE style="width:512px;" class="infotable" cellspacing="0" cellpadding="2">
+  
+  
+  
+  <TR><TD align="center" valign="middle" class="smalltxt"><b>KAMERA:</b>&nbsp;Canon DIGITAL IXUS 700 | <b>DATUM:</b>&nbsp;17.07.09 23:06 | <b>AUFLÖSUNG:</b>&nbsp;3072 x 2304 | <b>ISO-EINSTELLUNG:</b>&nbsp;Auto | <b>BELICHTUNGSMODUS:</b>&nbsp;Easy shooting | <b>BELICHTUNGSDAUER:</b>&nbsp;1/60s | <b>ÖFFNUNG:</b>&nbsp;7.1 | <b>BRENNWEITE:</b>&nbsp;7.7mm | <b>BLITZ:</b>&nbsp;Flash fired, auto, red-eye reduction</TD></TR>
+  
+  <TR><TD align="center" valign="middle" class="xsmalltxt"><strong>16</strong> Bilder&nbsp;&nbsp;|&nbsp;&nbsp;Erzeugt von <a href="http://jalbum.net" title="JAlbum - Freeware Web Fotoalbum Software" target="_blank">JAlbum 6.5</a>&nbsp;&amp;&nbsp;<a href="http://www.worx.hu" title="Chameleon v3.32 by LazaDezign" target="_blank">Chameleon</a> skin&nbsp;&nbsp;|&nbsp;&nbsp;<A href="javascript:void(0)" onClick="window.open('../../help.html','Hilfe','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,copyhistory=no,resizable=yes,width=560,height=560')">Hilfe</A></TD></TR>
+</TABLE>
+
+
+</CENTER>
+
+<script language="javascript" type="text/javascript">
+previous_image=new Image(); previous_image.src="174.JPG";
+</script>
+</BODY>
+</HTML>
