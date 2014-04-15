@@ -23,22 +23,22 @@ Ihre Sprache:			<input type="radio" name="Sprache" value="Deutsch">Deutsch
 Anzahl Personen:&nbsp; &nbsp;
 <select name="Anzahl Personen"><option>1<option>2<option>3<option>4<option>5<option>6<option>7</select>
 <p>
-Gewünschtes Mietdatum:<p>
+Gew&uuml;nschtes Mietdatum:<p>
 &nbsp; &nbsp;von:
 <select name="Tag_1"><option>1<option>2<option>3<option>4<option>5<option>6<option>7<option>8<option>9<option>10<option>11<option>12<option>13<option>14<option>15<option>16<option>17<option>18<option>19<option>20<option>21<option>22<option>23<option>24<option>25<option>26<option>27<option>28<option>29<option>30<option>31 </select>
 					 												    <select name="Monat_1"><option>Januar<option>Februar<option>M&auml;rz<option>April<option>Mai<option>Juni<option>Juli<option>August<option>September<option>Oktober<option>November<option>Dezember</select>												 
                                                                         <select name="Jahr_1">
-                                                                          <option>2013
                                                                           <option>2014
                                                                           <option>2015
+                                                                          <option>2016
       </select>      
       &nbsp; &nbsp;bis:
 										 <select name="Tag_2"><option>1<option>2<option>3<option>4<option>5<option>6<option>7<option>8<option>9<option>10<option>11<option>12<option>13<option>14<option>15<option>16<option>17<option>18<option>19<option>20<option>21<option>22<option>23<option>24<option>25<option>26<option>27<option>28<option>29<option>30<option>31 </select>
 					 												    <select name="Monat_2"><option>Januar<option>Februar<option>M&auml;rz<option>April<option>Mai<option>Juni<option>Juli<option>August<option>September<option>Oktober<option>November<option>Dezember</select>												 
                                                                         <select name="Jahr_2">
-                                                                          <option>2013
                                                                           <option>2014
                                                                           <option>2015
+                                                                          <option>2016
                                                                         </select>
 <p>
 Bemerkungen:&nbsp; &nbsp;<textarea rows="3" cols="40" name="Bemerkungen"></textarea>

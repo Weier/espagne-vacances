@@ -37,7 +37,7 @@
   <div id="breadCrumb" align="center">
   	| <a href="homepage_de.php"><img src="meinebilder/germany-flag.gif" width="15px" > Deutsch </a> | 
   	 <br>
-	  Mise &agrave; jour: 22.04.2013  
+	  Mise &agrave; jour: 08.04.2014  
   </div> 
   <div id="navBar"> 
    
@@ -96,12 +96,12 @@
 	  if($isUserLoggedIn==TRUE) 
       {?>
           <li><a href="homepage_fr.php?content=13&action=logOut&<?=SID?>">Se d&eacute;connecter</a> </li> 
-          <li><a href="homepage_fr.php?content=14&<?=SID?>">Configuration personelles</a></li>
+          
           <?php
       }
       if($isRootLoggedIn==TRUE)
       {?>
-           <li><a href="homepage_fr.php?content=17&<?=SID?>">Travailler le livre d'Or</a></li>
+           
            <?php 
       }?>
     </ul>

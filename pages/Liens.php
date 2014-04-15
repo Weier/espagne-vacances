@@ -1,13 +1,13 @@
 <div class="feature"> 
 	<h3>Liens</h3>
-	Dans cette rubrique vous trouvez d'intéressants liens concernant les possibilités de réservations, d'excursions etc. Si vous avez trouv&eacute; d'autres liens int&eacute;resants, n'h&eacute;sitez pas de nous les communiquer: <a href="mailto:calpe.spain@citycable.ch">calpe.spain@citycable.ch</a>
+	Dans cette rubrique vous trouvez d'int&eacute;ressants liens concernant les possibilit&eacute;s de r&eacute;servations, d'excursions etc. Si vous avez trouv&eacute; d'autres liens int&eacute;resants, n'h&eacute;sitez pas de nous les communiquer: <a href="mailto:calpe.spain@citycable.ch">calpe.spain@citycable.ch</a>
     <p>
      
     </p> 
 </div>
 <div class="links">
 <div class="story"> 
-	<h3>Compagnies d'aériennes</h3> 
+	<h3>Compagnies d'a&eacute;riennes</h3> 
 	<p>
 	 <a href="http://www.airberlin.com/"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Air Berlin</a>
 	</p> 
@@ -35,21 +35,18 @@
 <div class="story"> 
 	<h3>Car de voyage</h3> 
 	<p>
-	<a href="http://www.marti.ch/index_fr.cfm"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Marti</a>
+	<a href="http://www.marti.ch"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Marti</a>
 	</p>
 	<p>
-	<a href="http://www.daehler-reisen.ch/"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Dähler (d)</a>
+	<a href="http://www.daehler-reisen.ch/"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Daehler (d)</a>
     </p>
 	<p>
-	<h3>Météo</h3> 
+	<h3>M&eacute;t&eacute;o</h3> 
 	<p>
-	<a href="http://www.comunitatvalenciana.com/webcam/costa-blanca-calp/calpe-calpe-playa-de-la-fossa-0"target="_blank">Webcam Calpe</a>
+	<a href="http://fr.comunitatvalenciana.com/actualite/calp/webcams/calp-plage-du-la-fossa"target="_blank">Webcam Calpe</a>
 	</p>
-	<p>
-	<a href="http://webcam.comunitatvalenciana.com/webcamcostablanca-calpe.htm?id_camara=14"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Webcam Calpe Puerto</a>
-	</p>
-	<p>
-	<a href="http://www.comunitatvalenciana.com/eltiempo/el_tiempo.htm?"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Le temps actuel de la Costa Blanca</a>
+	<p>	
+	<a href="http://fr.comunitatvalenciana.com/actualite/meteorologie"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Le temps actuel de la Costa Blanca</a>
 	</p>
 	<p>
 	<a href="http://www.infocostablanca.com/fr/clima.htm"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Climat de la Costa Blanca</a>
@@ -60,7 +57,7 @@
 <div class="story"> 
 	<h3>Informations de la r&eacute;gion de Calpe</h3>
 	<p>
-	<a href="http://www.comunitatvalenciana.com/costablanca/costablanca1.htm?dest=0&id=3&idmuni=588&nommuni=CALP/CALPE"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Informations touristiques de Calpe</a>
+	<a href="http://www.calpe.es/?id_idioma=4"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Informations touristiques de Calpe</a>
 	</p>
 	<p>
 	<a href="http://www.infocostablanca.com/fr/l%20calpe.htm"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Info Costa Blanca / Calpe</a>
@@ -72,9 +69,6 @@
 	<a href="http://www.infociudad.es/cvalenciana/alicante/calpe/callejero/callejero.html"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Plan von Calpe (es)</a>
 	</p>
 	<p>
-	<a href="http://www.aytocalpe.org"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Ville de Calpe (es)</a>
-	</p>
-    <p>
 </div>
 <div class="story"> 
 	<h3>Divertissements</h3>
@@ -90,10 +84,7 @@
 	<a href="http://www.funquads.com"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Quads, Kayaks (es)</a>
 	</p>
 	<p>
-    <a href="http://www.kartinglafontsanta.com"target="_blank">Karting Teulada</a>
-	</p>
-	<p>
-	<a href="http://www.safariaitana.com/"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Safari Aitana (es)</a>
+    <a href="http://www.safariaitana.com/"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Safari Aitana (es)</a>
 	</p>
 	<p>
 	<a href="http://alpinisme.camptocamp.com/topos158.html?titre=%2APenon+de+Ifach%2A"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Pour les fans d'escalade</a>

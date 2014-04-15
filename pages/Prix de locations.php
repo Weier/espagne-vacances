@@ -10,30 +10,30 @@
 	<h3>Prix de location par semaine</h3>
 	<table border="1" cellspacing="1" cellpadding="5">
 			<tr>
-			<th width="260"> Appartement</th>
-      <th width="120"> Avant Saison</th>
-      <th width="120"> Haute Saison</th>
-			<th width="120"> Hors Saison</th>
+			<th width="220"> Appartement</th>
+      <th width="180"> Avant Saison</th>
+      <th width="180"> Haute Saison</th>
+			<th width="180"> Hors Saison</th>
 		  <tr>
 			<td> Dates </td>
 			<td> 
-			23.3.13 &ndash; 5.7.13<br>
-		    24.8.13 &ndash; 25.10.13</td>
-			<td>6.7.13 &ndash; 23.8.13</td>
-			<td> 27.10.12 – 22.3.13<br>
-			26.10.13 &ndash; 11.4.14</td>
+			12.04.2014 &ndash; 04.07.2014<br>
+		    25.08.2014 &ndash; 26.10.2014</td>
+			<td>05.07.2014 &ndash; 24.08.2014</td>
+			<td> 28.10.2013 &ndash; 11.04.2014<br>
+			27.10.2014 &ndash; 02.04.2015</td>
 		  </tr>
 			<tr>
-			<td> Appartement principal (max. 5 personnes)
+			<td> Appartement principal<br>(max. 5 personnes)
 			</td>
 			<td> CHF 700.- (560&euro;) </td> 
 			<td> CHF 1050.- (840&euro;) </td>
-			<td> CHF 210.- (168&euro;) </td> 
+			<td> CHF 315.- (250&euro;) </td> 
 			</td>
 			</tr>
 			<tr>
-			<td> Supplément pour appartement inf&eacute;rieur<br>
-			     (max. 2 personnes)</td>
+			<td> Suppl&eacute;ment pour appartement inf&eacute;rieur (max. 2 personnes)
+			</td>
 			<td> CHF 280.- (224&euro;)</td>
 			<td> CHF 420.- (336&euro;)</td>
 			<td> CHF 70.- (56&euro;) </td>
@@ -52,13 +52,13 @@
 	<form action="homepage_fr.php?content=5&<?=SID?>&#calenderLabel" method="post">
 		<select name="Jahr">
 		<?php
-		if(isset($_POST['Jahr']) and $_POST['Jahr']== 2014){?> <!--das 2. Jahr --> 
-			<option value="2014">2014</option>				   <!--das 2. Jahr --> 
-		 	<option value="2013">2013</option> 		           <!--das 1. Jahr --> <?php
+		if(isset($_POST['Jahr']) and $_POST['Jahr']== 2015){?> <!--das 2. Jahr --> 
+			<option value="2015">2015</option>				   <!--das 2. Jahr --> 
+		 	<option value="2014">2014</option> 		           <!--das 1. Jahr --> <?php
 			}
 			else{?> 
-			<option value="2013">2013</option> 					<!--das 1. Jahr --> 
-		 	<option value="2014">2014</option>					<!--das 2. Jahr --> <?php
+			<option value="2014">2014</option> 					<!--das 1. Jahr --> 
+		 	<option value="2015">2015</option>					<!--das 2. Jahr --> <?php
 			}?>
 		  
 	  </select>
@@ -67,19 +67,19 @@
 	</h3>
   	<p>
 	<script type="text/javascript">
-		var dateamf = '2013'
+		var dateamf = '2014'
 		var sprache = 'fr' 
 	</script>
 	<?php
-		$Jahr='2013';
-		if(isset($_POST['Jahr']) and $_POST['Jahr']== 2014)
+		$Jahr='2014';
+		if(isset($_POST['Jahr']) and $_POST['Jahr']== 2015)
 		{		
 	?>    
     <script type="text/javascript">
-		dateamf = '2014';
+		dateamf = '2015';
 	</script>
     <?php
-		$Jahr='2014';
+		$Jahr='2015';
     	}
 	?>
 	

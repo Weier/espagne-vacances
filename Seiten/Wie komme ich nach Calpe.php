@@ -18,10 +18,10 @@
 <div class="story"> 
 	<h3>Mit dem Flugzeug</h3> 
 	<p>
-	Es gibt <a href="homepage_de.php?content=11&<?=SID?>" target="_blank">Fluggesellschaften</a> die nach Alicante (60km von Calpe entfernt) oder Valencia (120km) fliegen. Der Flug von Genf nach Alicante dauert ca. 1.5 Stunden. Vom Flugplatz aus k&ouml;nnen Sie   mit dem<a href="http://www.alsa.es" target="_blank"> Bus</a>, dem Zug oder einem <a href="homepage_de.php?content=11&<?=SID?>" target="_blank">Mietauto</a> nach Calpe fahren. 
+	Es gibt <a href="homepage_de.php?content=11&<?=SID?>" target="_blank">Fluggesellschaften</a> die nach Alicante (60km von Calpe entfernt) oder Valencia (120km) fliegen. Der Flug von Genf nach Alicante dauert ca. 1.5 Stunden. Vom Flugplatz aus k&ouml;nnen Sie   mit dem<a href="http://www.alsa.es/de/" target="_blank"> Bus</a>, dem Zug oder einem <a href="homepage_de.php?content=11&<?=SID?>" target="_blank">Mietauto</a> nach Calpe fahren. 
 	</p> 
 	<p>
-	Je nach Saison und je fr&uuml;her Sie buchen, finden Sie sehr preisgünstige Angebote.
+	Je nach Saison und je fr&uuml;her Sie buchen, finden Sie sehr preisg&uuml;nstige Angebote.
 	</p>
 </div>
 <div class="story"> 
@@ -30,7 +30,7 @@
 	Sind Sie unkompliziert, dann k&ouml;nnen Sie auch mit dem <a href="homepage_de.php?content=11&<?=SID?>" target="_blank">Reisebus</a> nach Calpe fahren. 
 	</p> 
 	<p>
-	Diese Variante ist natürlich nicht so schnell, aber geeignet für Leute, die ungestresst in die Ferien fahren wollen. Die Reise dauert von Lausanne aus 16 Stunden. Es bestehen Zustiegsm&ouml;glichkeiten in vielen St&auml;dten der Schweiz.
+	Diese Variante ist nat&uuml;rlich nicht so schnell, aber geeignet f&uuml;r Leute, die ungestresst in die Ferien fahren wollen. Die Reise dauert von Lausanne aus 16 Stunden. Es bestehen Zustiegsm&ouml;glichkeiten in vielen St&auml;dten der Schweiz.
 	</p>
 	Die Preise liegen pro Fahrt zwischen CHF 100.- und CHF 300.- 
 	<p>

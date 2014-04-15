@@ -11,14 +11,7 @@
 		<li>Restaurants<p>
 		Calpe poss&egrave;de plus de cent restaurants diff&eacute;rents. Les plus typiques se trouvent au port et vous proposent une multitude de mets poissonniers. Si vous pr&eacute;f&eacute;rez manger asiatique, pas de probl&egrave;me, Calpe dispose d'une dizaine de restaurants chinois et tha&iuml;landais. La nourriture est en g&eacute;n&eacute;ral de niveau moyen &agrave; &eacute;lev&eacute;, seul d&eacute;faut: les plats ne sont g&eacute;n&eacute;ralement pas garnis de l&eacute;gumes.
 		</p>
-		  <ul>
-			 <li>Chinois/Japonais/ Tha&iuml;: Restaurante Rich House, C/L'esport Calpe --> Tel. 96 583 57 83</li>
-			 <li>Indien: Taste of india, maharaja, avd. gabriel miro, 35 --> Tel. 96 587 44 36</li>
-			 <li>La Llar de Barbara, C/Major 10 --> Tel. 96 583 01 60</li>
-			 <li>El Santo, C/Torreones, 3 --> Tel. 965 83 20 34</li>
-		 </ul>
-		 <br>
-		 <p>
+		   <p>
 		 Vous avez naturellement aussi la possibilit&eacute; de manger de succulents repas un peu au dehors des c&ocirc;tes. Du lapin, de l'agneau et bien d'autres choses encore.
 		 </p>
 		 </li>
@@ -59,7 +52,7 @@
 		 </li>
 		 <li>V&eacute;lo de route et mountain bike
 		   <p>
-		  La r&eacute;gion de Calpe et ses alentours est un immense domaine cyclable. Autant pour les v&eacute;los de routes que pour le mountain bike. J'ai moi -m&ecirc;me, avec mon p&egrave;re, pass&eacute; une semaine de r&ecirc;ve  &agrave; tourner entre Benidorm, Guadalest, Tarbena et Benitaxel au mois de mai. Si vous ne voulez pas prendre votre vélo personnel avec vous, il y a la possibilité d'en louer à Calpe. 
+		  La r&eacute;gion de Calpe et ses alentours est un immense domaine cyclable. Autant pour les v&eacute;los de routes que pour le mountain bike. J'ai moi -m&ecirc;me, avec mon p&egrave;re, pass&eacute; une semaine de r&ecirc;ve  &agrave; tourner entre Benidorm, Guadalest, Tarbena et Benitaxel au mois de mai. Si vous ne voulez pas prendre votre v&eacute;lo personnel avec vous, il y a la possibilit&eacute; d'en louer l&agrave; Calpe. 
 		 </p>
 		 </li>
 		 <li>Parapente
@@ -92,7 +85,7 @@
 		 </li>
 		 <li>Parc Safari
 		   <p>
-		 Dans l'arrière pays, env. 40 km de Calpe, se trouve le safari parc "Aitana". Vous pouvez y voir des z&egrave;bres, des girafes, des lions, des autruches, des singes, etc.
+		 Dans l'arri&egrave;re pays, env. 40 km de Calpe, se trouve le safari parc "Aitana". Vous pouvez y voir des z&egrave;bres, des girafes, des lions, des autruches, des singes, etc.
 		 <br><a href="http://www.safariaitana.com"target="_blank">Site officiel d'Aitana</a>
 		 
 		 </li>

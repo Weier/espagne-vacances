@@ -1,6 +1,6 @@
 <div class="feature"> 
 	<h3>Links</h3>
-	In dieser Rubrik finden Sie verschiedene interessante Links die Ihnen  bei der Reiseplanung helfen k&ouml;nnen. Falls ein Link nicht mehr funktionniert oder Sie einen nützlichen Link weitergeben m&ouml;chten, melden Sie uns dies doch per e-mail an: <a href="mailto:calpe.spain@citycable.ch">calpe.spain@citycable.ch</a>
+	In dieser Rubrik finden Sie verschiedene interessante Links die Ihnen  bei der Reiseplanung helfen k&ouml;nnen. Falls ein Link nicht mehr funktionniert oder Sie einen n&uuml;tzlichen Link weitergeben m&ouml;chten, melden Sie uns dies doch per e-mail an: <a href="mailto:calpe.spain@citycable.ch">calpe.spain@citycable.ch</a>
     <p>
      
     </p> 
@@ -18,7 +18,7 @@
      <a href="http://www.swiss.com"target="_blank">Swiss</a>
     </p>
 	<p>
-     <a href="http://www.flybaboo.com/de/?g_select_language=%2Fde%2F"target="_blank">Flybaboo</a>
+     <a href="http://fr.flybaboo.com"target="_blank">Flybaboo</a>
     </p>
 </div>
 <div class="story"> 
@@ -33,7 +33,7 @@
 <div class="story"> 
 	<h3>Reisebusse</h3> 
 	<p>
-	<a href="http://www.daehler-reisen.ch"target="_blank">Dähler</a>
+	<a href="http://www.daehler-reisen.ch"target="_blank">Daehler</a>
     </p>
 	<p>
 	<a href="http://www.marti.ch"target="_blank">Marti</a>
@@ -42,16 +42,13 @@
 <div class="story"> 
 	<h3>Wetter</h3> 
 	<p>
-	<a href="http://www.spain-online.de/costablanca/klima/klima1.htm"target="_blank">Klima&uuml;bersicht von Calpe</a>
-    </p>
-	<p>
 	<a href="http://www.wunderground.com/data/640x480/i_sp_st_anim.gif"target="_blank">Temperaturen in Spanien heute</a>
 	</p>
 	<p>
 	<a href="http://banners.wunderground.com/banner/gizmotemp/global/stations/08360.gif"target="_blank">Temperatur in Alicante</a>
 	</p>
 	<p>
-	<a href="http://www.comunitatvalenciana.com/webcam/costa-blanca-calp/calpe-calpe-playa-de-la-fossa-0"target="_blank">Webcam Calpe</a>
+	<a href="http://de.comunitatvalenciana.com/aktuelles/calp/webcams/calpe-playa-de-la-fossa"target="_blank">Webcam Calpe</a>
 	</p>
 </div>
 </div>
@@ -59,18 +56,13 @@
 <div class="story"> 
 	<h3>Informationen in der Region Calpe</h3>
 	<p>
-	<a href="http://www.calpe.es"target="_blank">Calpe Tourismus</a>
-	</p>
-	<p>
-	<a href="http://www.costablanca.org/Home.aspx"target="_blank">Costa Blanca Allgemein</a>
+	<a href="http://www.calpe.es/?id_idioma=5"target="_blank">Calpe Tourismus</a>
 	</p>
 	<p>
 	<a href="http://www.infociudad.es/cvalenciana/alicante/calpe/callejero/callejero.html"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Plan von Calpe (es)</a>
 	</p>
 	<p>
-	<a href="http://www.aytocalpe.org"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Stadt Calpe (es)</a></p>
-	<p>
-	<a href="http://www.comunitatvalenciana.com"target="_blank">Touristeninformation Land Valencia</a>
+	<a href="http://de.comunitatvalenciana.com/"target="_blank">Touristeninformation Land Valencia</a>
 	</p>
 	<p>
 	<a href="http://www.cbn.es"target="_blank">Costa Blanca Nachrichten</a>
@@ -94,10 +86,7 @@
 	<a href="http://www.safariaitana.com"target="_blank">Safari Aitana</a>
 	</p>
 	<p>
-    <a href="http://www.kartinglafontsanta.com"target="_blank">Karting Teulada</a>
-	</p>
-	<p>
-	</div>
+    </div>
 <div class="story"> 
 	<h3>Service</h3>
 	<p>

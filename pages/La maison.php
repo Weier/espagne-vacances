@@ -30,7 +30,7 @@
 	 <li> 1 petite salle de  bain (douche et WC)</li>
 	 <li> 1 salon avec coin &agrave; manger et chemin&eacute;e</li>
 	 <li> 1 cuisine &eacute;quip&eacute;e (four &agrave; gaz, frigo, machine &agrave; caf&eacute;)</li>
-	 <li> 1 terrasse couverte et vitrée, vue sur la mer</li>
+	 <li> 1 terrasse couverte et vitr&eacute;e, vue sur la mer</li>
 	 <li> 1 terrasse ouverte</li>
   </ul>
 	</p> 
@@ -42,20 +42,22 @@
 	  <a onclick="window.open(this.href, '_blank', 'width=2048,height=1536,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');return false" href="Galeriephoto/La maison/Dans la maison/slides/121.JPG"><img  src="Galeriephoto/La maison/Dans la maison/slides/121.JPG"alt="Terrasse couverte avec vue sur la mer" width="40%"></a>
 	  <a onclick="window.open(this.href, '_blank', 'width=2048,height=1536,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');return false" href="Galeriephoto/La maison/Dans la maison/slides/123.JPG"><img  src="Galeriephoto/La maison/Dans la maison/slides/123.JPG"alt="Chambre avec deux lits" width="40%"></a>
 	  <a onclick="window.open(this.href, '_blank', 'width=2048,height=1536,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');return false" href="Galeriephoto/La maison/Dans la maison/slides/124.JPG"><img  src="Galeriephoto/La maison/Dans la maison/slides/124.JPG"alt="Chambre avec deux lits plus lit de r&eacute;serve" width="40%"></a>
+	<p align="center"> 
+     <a href="http://www.espagne-vacances.ch/homepage_fr.php?content=2&PHPSESSID=e9651004fc01971f2d7fecb3232c11cdc"><img  src="meinebilder/top.GIF"alt="en haut" width="5%"></a>
 	</p>
 </div>
 <hr>
 <div class="story"> 
-	<a name="Appartement inférieur"><h3>Appartement inférieur (se loue seulement avec l'appartement principal)</h3> </a>
+	<a name="Appartement inf&eacute;rieur"><h3>Appartement inf&eacute;rieur (se loue seulement avec l'appartement principal)</h3> </a>
 	<p>
 	 (max. 2 personnes)
 	</p> 
 	<p>
   <ul>		
-	<li> 1 chambre à coucher avec 2 lits</li>
+	<li> 1 chambre &agrave; coucher avec 2 lits</li>
 	<li> 1 salle de bain (douche et WC)</li>
 	<li> 1 salon</li>
-	<li> 1 cuisine équipée (four à gaz et frigo)</li>
+	<li> 1 cuisine &eacute;quip&eacute;e (four &agrave; gaz et frigo)</li>
   </ul>
 	</p> 
 	<p>

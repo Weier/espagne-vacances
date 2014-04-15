@@ -1,10 +1,21 @@
-<?php 
-//Includes
-include "inc/preamble_session.php"; // Needs to be always at first!!!
+<?php include "inc/preamble_session.php";?>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<!-- DW6 -->
+<head>
+<?php
 include "inc/meta.php";  
 include "css/stylesheet.php";
 include "inc/config.php";
-//include "inc/address.php";
+
+?>
+<title><?=$title[$language]?></title>
+    <link rel="icon" HREF="meinebilder/icon.png" TYPE="image/ico">
+</head>
+<body> 
+<?php
 error_reporting(E_ALL);
 
 // Global Variable Initialisation
@@ -15,7 +26,7 @@ if(isset($_SESSION['ID']) and $_SESSION['ID']!=0)
 $isRootLoggedIn = FALSE;
    if (rechte()=='1')
 $isRootLoggedIn = TRUE;
-
+     
 //NameVariable Array
 $german='DE';
 $french='fr';
@@ -26,18 +37,8 @@ $main[$german]  = "homepage_fr.php";
 $Flag[$german]  = "meinebilder/france.jpg";
 $lang[$german]  = "Fran&ccedil;ais";
 
-
 ?>
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-"http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head>
-    <title><?=$title[$language]?></title>
-    <link rel="icon" HREF="meinebilder/icon.png" TYPE="image/ico">
-</head>
-<body> 
-
+    
 <div id="masthead"> 
   <h1 id="siteName"><?=$title[$language]?><a href="homepage_de_villa_gross.jpg" target="blank"> </a></h1>
   <br>
@@ -47,8 +48,7 @@ $lang[$german]  = "Fran&ccedil;ais";
   <div id="breadCrumb" align="center">
      | <a href=<?=$main[$language]?>><img src=<?=$Flag[$language]?> width="15px"> <?=$lang[$language]?></a>|
 	  <br>
-    Aktualisiert: 04.12.2013
-    </div>
+    Aktualisiert: 08.04.2014    
 </div> 
   <div id="navBar"> 
   <div class="relatedLinks"> 
@@ -106,12 +106,12 @@ $lang[$german]  = "Fran&ccedil;ais";
       if($isUserLoggedIn==TRUE) 
       {?>
     	  <li><a href="homepage_de.php?content=13&action=logOut&<?=SID?>">Logout</a> </li> 
-    	  <li><a href="homepage_de.php?content=14&<?=SID?>">Einstellungen</a></li>
+    	  
     	  <?php
       }
 	  if($isRootLoggedIn==TRUE)
       {?>
-           <li><a href="homepage_de.php?content=17&<?=SID?>">Gaestebuch bearbeiten</a></li>
+           
            <?php 
       }?>
     </ul>
