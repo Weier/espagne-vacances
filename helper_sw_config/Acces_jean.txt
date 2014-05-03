@@ -1,3 +1,5 @@
+/* SeverData*/
+
 acces:jean:
 
 https://oberon.kreativmedia.ch:8443
@@ -10,4 +12,6 @@ jgdiserens
 
 ftp: ftp.espagne-vacances.ch/httpdocs
 weierand
+
+
 
