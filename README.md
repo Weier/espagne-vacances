@@ -2,4 +2,4 @@ espagne-vacances
 ================
 
 
-This is an internet site for a rental house in Spain / Calpe
+This is an internet site for a rental house in Spain / Calpe but no
