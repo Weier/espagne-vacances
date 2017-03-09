@@ -59,9 +59,6 @@
 	<a href="http://www.calpe.es/?id_idioma=5"target="_blank">Calpe Tourismus</a>
 	</p>
 	<p>
-	<a href="http://www.infociudad.es/cvalenciana/alicante/calpe/callejero/callejero.html"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Plan von Calpe (es)</a>
-	</p>
-	<p>
 	<a href="http://de.comunitatvalenciana.com/"target="_blank">Touristeninformation Land Valencia</a>
 	</p>
 	<p>

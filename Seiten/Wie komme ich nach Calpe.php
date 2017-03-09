@@ -40,6 +40,6 @@
 	<p>
 	 Es besteht auch die M&ouml;glichkeit, mit dem <a href="http://sbb.ch" target="_blank">Zug</a> nach Calpe, oder bis wenigstens nach Valencia, ca.120km n&ouml;rdlich von Calpe, zu fahren. Von dort aus muss man <a href="http://www.alsa.es" target="_blank">den Bus </a>nehmen. Da ich es noch nie ausprobiert habe, besitze ich keine n&auml;heren Informationen dar&uuml;ber. Es ist aber sehrwahrscheinlich die langsamste Reiseart und trotzdem nicht die Billigste. Es k&ouml;nnte zur Abwechslung jedoch sehr interessant sein.
 	<p align="center"> 
-     <a href="http://www.espagne-vacances.ch/homepage_de.php?content=3&PHPSESSID=e016c1cab69adfb5fec4a81fe9875c44"><img  src="meinebilder/top.GIF"alt="Top" width="5%"></a>
+     <a href="http://www.espagne-vacances.ch/homepage_de.php?content=3&"><img  src="meinebilder/top.GIF"alt="Top" width="5%"></a>
 	</p>  
 </div>
