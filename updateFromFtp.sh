@@ -9,5 +9,5 @@ mv ftp.espagne-vacances.ch/httpdocs/* .
 rm -r ftp.espagne-vacances.ch/httpdocs
 git add *
 git commit -m"Update from the ftp server"
-git push
+git push origin
 
