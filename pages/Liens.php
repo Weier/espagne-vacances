@@ -66,9 +66,6 @@
 	<a href="http://www.comunitatvalenciana.com"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Informations touristiques de Valence</a>
 	</p>
 	<p>
-	<a href="http://www.infociudad.es/cvalenciana/alicante/calpe/callejero/callejero.html"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Plan von Calpe (es)</a>
-	</p>
-	<p>
 </div>
 <div class="story"> 
 	<h3>Divertissements</h3>

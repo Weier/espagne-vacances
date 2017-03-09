@@ -48,7 +48,7 @@ $lang[$german]  = "Fran&ccedil;ais";
   <div id="breadCrumb" align="center">
      | <a href=<?=$main[$language]?>><img src=<?=$Flag[$language]?> width="15px"> <?=$lang[$language]?></a>|
 	  <br>
-    Aktualisiert: 08.04.2014    
+    Aktualisiert: 15.02.2017    
 </div> 
   <div id="navBar"> 
   <div class="relatedLinks"> 

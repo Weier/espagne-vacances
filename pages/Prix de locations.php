@@ -17,26 +17,26 @@
 		  <tr>
 			<td> Dates </td>
 			<td> 
-			12.04.2014 &ndash; 04.07.2014<br>
-		    25.08.2014 &ndash; 26.10.2014</td>
-			<td>05.07.2014 &ndash; 24.08.2014</td>
-			<td> 28.10.2013 &ndash; 11.04.2014<br>
-			27.10.2014 &ndash; 02.04.2015</td>
+			08.04.2017 &ndash; 30.06.2017<br>
+		    21.08.2017 &ndash; 22.10.2017</td>
+			<td>01.07.2017 &ndash; 20.08.2017</td>
+			<td> 31.10.2016 &ndash; 07.04.2017<br>
+			23.10.2017 &ndash; 30.03.2018</td>
 		  </tr>
 			<tr>
 			<td> Appartement principal<br>(max. 5 personnes)
 			</td>
-			<td> CHF 700.- (560&euro;) </td> 
-			<td> CHF 1050.- (840&euro;) </td>
-			<td> CHF 315.- (250&euro;) </td> 
+			<td> CHF 700.- (635&euro;) </td> 
+			<td> CHF 1050.- (950&euro;) </td>
+			<td> CHF 315.- (285&euro;) </td> 
 			</td>
 			</tr>
 			<tr>
 			<td> Suppl&eacute;ment pour appartement inf&eacute;rieur (max. 2 personnes)
 			</td>
-			<td> CHF 280.- (224&euro;)</td>
-			<td> CHF 420.- (336&euro;)</td>
-			<td> CHF 70.- (56&euro;) </td>
+			<td> CHF 280.- (250&euro;)</td>
+			<td> CHF 420.- (380&euro;)</td>
+			<td> CHF 70.- (65&euro;) </td>
 			</tr>
 				</table>
 </div> 
@@ -52,13 +52,13 @@
 	<form action="homepage_fr.php?content=5&<?=SID?>&#calenderLabel" method="post">
 		<select name="Jahr">
 		<?php
-		if(isset($_POST['Jahr']) and $_POST['Jahr']== 2015){?> <!--das 2. Jahr --> 
-			<option value="2015">2015</option>				   <!--das 2. Jahr --> 
-		 	<option value="2014">2014</option> 		           <!--das 1. Jahr --> <?php
+		if(isset($_POST['Jahr']) and $_POST['Jahr']== 2018){?> <!--das 2. Jahr --> 
+			<option value="2018">2018</option>				   <!--das 2. Jahr --> 
+		 	<option value="2017">2017</option> 		           <!--das 1. Jahr --> <?php
 			}
 			else{?> 
-			<option value="2014">2014</option> 					<!--das 1. Jahr --> 
-		 	<option value="2015">2015</option>					<!--das 2. Jahr --> <?php
+			<option value="2017">2017</option> 					<!--das 1. Jahr --> 
+		 	<option value="2018">2018</option>					<!--das 2. Jahr --> <?php
 			}?>
 		  
 	  </select>
@@ -67,19 +67,19 @@
 	</h3>
   	<p>
 	<script type="text/javascript">
-		var dateamf = '2014'
+		var dateamf = '2017'
 		var sprache = 'fr' 
 	</script>
 	<?php
-		$Jahr='2014';
-		if(isset($_POST['Jahr']) and $_POST['Jahr']== 2015)
+		$Jahr='2017';
+		if(isset($_POST['Jahr']) and $_POST['Jahr']== 2018)
 		{		
 	?>    
     <script type="text/javascript">
-		dateamf = '2015';
+		dateamf = '2018';
 	</script>
     <?php
-		$Jahr='2015';
+		$Jahr='2018';
     	}
 	?>
 	

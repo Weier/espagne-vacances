@@ -1,7 +1,7 @@
 <div class="feature"> 
 	<h3>Home</h3>	
     <p>
-     Sur ce site vous trouvez tout pour passer des vacances de rêve à Calpe.
+     Sur ce site vous trouvez tout pour passer des vacances de r&ecirc;ve &agrave; Calpe en Espagne.
     </p> 
 	<p>
 	Utilisez les marques-pages de gauche pour vous balader sur le site.
@@ -14,6 +14,6 @@
 </div> 
 <div class="story"> 
 	 <p>
-	 Les informations que vous pouvez trouver sur ce site peuvent être modifiées &agrave; tout moment et ne sont de ce fait pas une offre.
+	 Les informations que vous pouvez trouver sur ce site peuvent &ecirc;tre modifi&eacute;es &agrave; tout moment et ne sont de ce fait pas une offre.
 	 </p>
 </div> 

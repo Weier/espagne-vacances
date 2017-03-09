@@ -1,5 +1,3 @@
-/* SeverData*/
-
 acces:jean:
 
 https://oberon.kreativmedia.ch:8443
@@ -10,11 +8,6 @@ web-creation.ch:4882
 jgdiserens
 79thessali
 
-Ftp:
---------
-ftp.espagne-vacances.ch/httpdocs
+ftp: ftp.espagne-vacances.ch/httpdocs
 weierand
 
-/* And Add a Comment for me*/
-
-/* This is a new Comment for you but not for the masdter*/
