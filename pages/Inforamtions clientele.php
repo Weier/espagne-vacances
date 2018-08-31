@@ -1,12 +1,12 @@
 <? if(isset($_SESSION['ID'])) {?>
 <div class="feature"> 
 	<h3>Informations locataires</h3>
-	Dans cette rubriques vous trouvez des informations complémentaires concernant notre maison de vacances à Calpe.
+	Dans cette rubriques vous trouvez des informations compl&eacute;mentaires concernant notre maison de vacances &agrave; Calpe.
 	<p>
 	</p> 
 </div>
 <div class="story"> 
-	<a name="Adresse_Calpe"><h3>L'adresse à Calpe</h3></a> 
+	<a name="Adresse_Calpe"><h3>L'adresse &agrave; Calpe</h3></a> 
 	<p>
 	La Canuta Alta 13A<br/>
 	03710 Calpe <br/>
@@ -24,14 +24,14 @@
 	</p>
 </div>
 <div class="story"> 
-  <a name="Plan_Calpe"><h3>Accès à la maison et où se trouve quoi</h3></a><br/>
+  <a name="Plan_Calpe"><h3>Acc&egrave;s &agrave; la maison et o&ugrave; se trouve quoi</h3></a><br/>
 	(Cliquez sur la photo pour ouvrir la page interactive de Google Maps)
-	<a onClick="window.open(this.href, '_blank','width=1536,height=1024,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');return false"href="http://maps.google.es/maps/ms?ie=UTF8&hl=fr&msa=0&msid=117286328663293905063.00044a85c5ecc6fd7c83a&ll=38.64315,0.031258&spn=0.001852,0.00353&t=h&z=18"><img  src="meinebilder/situation_maison_penon_petit.jpg" width="45%"alt="Pour voir les détails et calculer vos itinéraires, cliquez sur l'image." border="0"></a>
+	<a onClick="window.open(this.href, '_blank','width=1536,height=1024,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');return false"href="http://maps.google.es/maps/ms?ie=UTF8&hl=fr&msa=0&msid=117286328663293905063.00044a85c5ecc6fd7c83a&ll=38.64315,0.031258&spn=0.001852,0.00353&t=h&z=18"><img  src="meinebilder/situation_maison_penon_petit.jpg" width="45%"alt="Pour voir les d&eaucute;tails et calculer vos itin&eaucute;raires, cliquez sur l'image." border="0"></a>
     </p>
 	<!--<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.es/maps/ms?ie=UTF8&amp;hl=fr&amp;msa=0&amp;msid=117286328663293905063.00044a85c5ecc6fd7c83a&amp;ll=38.64193,0.040455&amp;spn=0.008483,0.020141&amp;t=h&amp;output=embed&amp;s=AARTsJrvrhBYwsS8FjZX0tA_STpObFYSng"></iframe><p><small><a href="http://maps.google.es/maps/ms?ie=UTF8&amp;hl=fr&amp;msa=0&amp;msid=117286328663293905063.00044a85c5ecc6fd7c83a&amp;ll=38.64193,0.040455&amp;spn=0.008483,0.020141&amp;t=h&amp;source=embed" style="color:#0000FF;text-align:left">Agrandir le plan</a></small>
 	</p>
-	<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.es/maps/ms?ie=UTF8&amp;hl=fr&amp;msa=0&amp;msid=117286328663293905063.00044a85c5ecc6fd7c83a&amp;ll=38.64193,0.040455&amp;spn=0.008483,0.020141&amp;t=h&amp;output=embed&amp;s=AARTsJrvrhBYwsS8FjZX0tA_STpObFYSng"></iframe><p><small><a href="http://maps.google.es/maps/ms?ie=UTF8&hl=fr&msa=0&msid=117286328663293905063.00044a85c5ecc6fd7c83a&ll=38.64315,0.031258&spn=0.001852,0.00353&t=h&z=18" style="font-size:150%;color:#FF0000;text-align:center">Pour voir les détails et calculer vos itinéraires, cliquez ici. </a></small><br/>
-	Pour revenir, cliquez sur la bouton "retour" en haut à gauche.
+	<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.es/maps/ms?ie=UTF8&amp;hl=fr&amp;msa=0&amp;msid=117286328663293905063.00044a85c5ecc6fd7c83a&amp;ll=38.64193,0.040455&amp;spn=0.008483,0.020141&amp;t=h&amp;output=embed&amp;s=AARTsJrvrhBYwsS8FjZX0tA_STpObFYSng"></iframe><p><small><a href="http://maps.google.es/maps/ms?ie=UTF8&hl=fr&msa=0&msid=117286328663293905063.00044a85c5ecc6fd7c83a&ll=38.64315,0.031258&spn=0.001852,0.00353&t=h&z=18" style="font-size:150%;color:#FF0000;text-align:center">Pour voir les d&eaucute;tails et calculer vos itin&eaucute;raires, cliquez ici. </a></small><br/>
+	Pour revenir, cliquez sur la bouton "retour" en haut &agrave; gauche.
 	</p>-->
 	<!--<table id="Tableau_01" width="843" height="596" border="0" cellpadding="0" cellspacing="0">
 		<tr>

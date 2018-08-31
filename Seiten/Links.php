@@ -9,9 +9,6 @@
 <div class="story"> 
 	<h3>Fluggesellschaften</h3> 
 	<p>
-	 <a href="http://www.airberlin.com"target="_blank">Air Berlin</a>
-	</p> 
-	<p>
 	 <a href="http://www.easyjet.com"target="_blank">Easyjet</a>
 	</p>
 	<p>

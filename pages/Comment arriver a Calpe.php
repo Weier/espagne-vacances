@@ -16,15 +16,15 @@
 <div class="story"> 
 	<h3>Avec l'avion</h3> 
 	<p>
-	Il existe un certain nombre de <a href="homepage_fr.php?content=11&<?=SID?>" target="_blank">compagnies a&eacute;riennes</a> qui desservent Alicante (60km de Calpe) ou Valencia (120km). Le vol de Genève à Alicante dure env.1.5 heures. Depuis l'a&eacute;roport vous pouvez aller <a href="http://www.alsa.es" target="_blank">en bus</a> ou en <a href="homepage_fr.php?content=11&<?=SID?>" target="_blank">voiture de location</a> &agrave;  Calpe.
+	Il existe un certain nombre de <a href="homepage_fr.php?content=11&<?=SID?>" target="_blank">compagnies a&eacute;riennes</a> qui desservent Alicante (60km de Calpe) ou Valencia (120km). Le vol de Gen&egrave;ve &agrave; Alicante dure env.1.5 heures. Depuis l'a&eacute;roport vous pouvez aller <a href="http://www.alsa.es" target="_blank">en bus</a> ou en <a href="homepage_fr.php?content=11&<?=SID?>" target="_blank">voiture de location</a> &agrave;  Calpe.
 	<p>
-	En r&eacute;servant bien &agrave; l'avance et selon la saison, vous trouvez des vols très bon march&eacute;.
+	En r&eacute;servant bien &agrave; l'avance et selon la saison, vous trouvez des vols tr&egrave;s bon march&eacute;.
 	<p>
 </div>
 <div class="story"> 
 	<h3>Avec le car de voyage</h3> 
 	<p>
-	Vous aimez le voyage simple et tranquille, être assis des heures ne vous dérange pas: alors je vous propose de partir <a href="homepage_fr.php?content=11&<?=SID?>" target="_blank">en car</a> à Calpe. 
+	Vous aimez le voyage simple et tranquille, &ecirc;tre assis des heures ne vous d&eacute;range pas: alors je vous propose de partir <a href="homepage_fr.php?content=11&<?=SID?>" target="_blank">en car</a> &agrave; Calpe. 
 	<p> 
 	Cette variante n'est pas la plus rapide,
 	 mais vous permet d'effectuer un trajet sans soucis (Akunamatata!). Le trajet dure 16 heures en partant de Villette (Lavaux).
@@ -35,7 +35,7 @@
 <div class="story"> 
 	<h3>Avec le train</h3> 
 	<p>
-	 Il y a aussi la possibilité de partir <a href="http://cff.ch" target="_blank">en train</a> à Calpe ou au moins jusqu'&agrave; Valence, 120km au nord de Calpe. Depuis l&agrave;, il faudrait prendre  <a href="http://www.alsa.es" target="_blank">le bus</a>. Du fait que je ne n'ai encore jamais effectué le voyage de cette manière, je ne peux vous donner de plus amples informations. Mais c'est probablement le moyen le plus intéressant et le plus regorgé de surprise!
+	 Il y a aussi la possibilit&eacute; de partir <a href="http://cff.ch" target="_blank">en train</a> &agrave; Calpe ou au moins jusqu'&agrave; Valence, 120km au nord de Calpe. Depuis l&agrave;, il faudrait prendre  <a href="http://www.alsa.es" target="_blank">le bus</a>. Du fait que je ne n'ai encore jamais effectu&eacute; le voyage de cette mani&egrave;re, je ne peux vous donner de plus amples informations. Mais c'est probablement le moyen le plus int&eacute;ressant et le plus regorg&eacute; de surprise!
 	<p align="center"> 
      <a href="http://www.espagne-vacances.ch/homepage_fr.php?content=3&PHPSESSID=e9651004fc01971f2d7fecb3232c11cdc"><img  src="meinebilder/top.GIF"alt="en haut" width="5%"></a>
 	</p>  

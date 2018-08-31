@@ -17,11 +17,11 @@
 		  <tr>
 			<td> Datum </td>
 			<td>
-			08.04.2017 &ndash; 30.06.2017<br>
-		    21.08.2017 &ndash; 22.10.2017</td>
-			<td>01.07.2017 &ndash; 20.08.2017</td>
-			<td> 31.10.2016 &ndash; 07.04.2017<br>
-			23.10.2017 &ndash; 30.03.2018</td>
+			24.3.2018 &ndash; 6.7.2018<br>
+		    25.8.2018 &ndash; 26.10.2018</td>
+			<td>7.7.2018 &ndash; 24.8.2018</td>
+			<td> 23.10.2017 &ndash; 23.3.20187<br>
+			27.10.2018 &ndash; 12.4.2019</td>
   </tr>
 			<tr>
 			<td> Hauptwohnung<br>(max.5 Personen) </td>
@@ -51,14 +51,14 @@
 	<form action="homepage_de.php?content=5&<?=SID?>&#KalenderLabel" method="post">
       <select name="Jahr">
         <?php
-		if(isset($_POST['Jahr']) and $_POST['Jahr']== 2018){?>
+		if(isset($_POST['Jahr']) and $_POST['Jahr']== 2019){?>
+        <option value="2019">2019</option>
         <option value="2018">2018</option>
-        <option value="2017">2017</option>
         <?php
 			}
 			else{?>
-        <option value="2017">2017</option>
         <option value="2018">2018</option>
+        <option value="2019">2019</option>
         <?php
 			}?>
       </select>		
@@ -67,19 +67,19 @@
 	</h3>
   	<p>
 	<script type="text/javascript">
-	var dateamf = '2017'
+	var dateamf = '2018'
 	var sprache = 'de' 
 	</script>
 	<?php
-	$Jahr='2017';
-	if(isset($_POST['Jahr']) and $_POST['Jahr']== 2018)
+	$Jahr='2018';
+	if(isset($_POST['Jahr']) and $_POST['Jahr']== 2019)
 		{
 	?>
 	<script type="text/javascript">
-	dateamf = '2018';
+	dateamf = '2019';
 	</script>
 	<?php
-	$Jahr='2018';
+	$Jahr='2019';
 		}
 	?>
 	<?php

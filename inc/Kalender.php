@@ -1,4 +1,3 @@
-
 <script language="JavaScript">
 <!-- gebuchte Daten -->
 <?php 
@@ -37,7 +36,7 @@ if(sprache=='de'){
 ?>
 
 if(sprache=='fr'){
-	var nebensaisonpreis='Prix à discuter';
+	var nebensaisonpreis='Prix Ã  discuter';
 	}
 if(sprache=='de'){
 	var nebensaisonpreis='Preise nach Absprache';
@@ -45,9 +44,9 @@ if(sprache=='de'){
 	
 <!--  Monate -->
 if(sprache=='de'){
-var mois=new Array("Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember");}
+var mois=new Array("Januar","Februar","M&aumlrz","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember");}
 else{
-	var mois=new Array("Janvier","Février","Mars","Avril","Mai","Juin","Juillet","Août","Septembre","Octobre","Novembre","Décembre");
+	var mois=new Array("Janvier","F&eacutevrier","Mars","Avril","Mai","Juin","Juillet","Ao&ucirct","Septembre","Octobre","Novembre","D&eacutecembre");
 	}
 
 function disp(txt) { document.write(txt) }
@@ -150,7 +149,7 @@ disp("</TABLE>");
 if(sprache=='de'){
 disp("<table width='100' border='0' cellspacing='1'><tr><td bgcolor='#FF0000' style=' border-style:solid; border-width:thin '>&nbsp;</td><td>Gebucht</td><td>&nbsp;</td><td bgcolor='#00FF00'style=' border-style:solid; border-width:thin ' title='"+vorsaisonpreis+"'>&nbsp;</td><td title='"+vorsaisonpreis+"'>Vorsaison</td><td>&nbsp;</td><td bgcolor='#FFFF00'style=' border-style:solid; border-width:thin ' title='"+hochsaisonpreis+"'>&nbsp;</td><td title='"+hochsaisonpreis+"'>Hochsaison</td><td>&nbsp;</td><td bgcolor='#CCFFCC' style=' border-style:solid; border-width:thin ' title='"+nebensaisonpreis+"'>&nbsp;</td><td title='"+nebensaisonpreis+"'>Nebensaison</td></tr></table>");}
 if(sprache=='fr'){
-disp("<table width='100' border='0' cellspacing='1'><tr><td bgcolor='#FF0000' style=' border-style:solid; border-width:thin '>&nbsp;</td><td>Réservé</td><td>&nbsp;</td><td bgcolor='#00FF00'style=' border-style:solid; border-width:thin ' title='"+vorsaisonpreis+"'>&nbsp;</td><td title='"+vorsaisonpreis+"'>Avant Saison</td><td>&nbsp;</td><td bgcolor='#FFFF00'style=' border-style:solid; border-width:thin '  title='"+hochsaisonpreis+"'>&nbsp;</td><td title='"+hochsaisonpreis+"'>Haute Saison</td><td>&nbsp;</td><td bgcolor='#CCFFCC' style=' border-style:solid; border-width:thin ' title='"+nebensaisonpreis+"'>&nbsp;</td><td title='"+nebensaisonpreis+"'>Hors Saison</td></tr></table>");
+disp("<table width='100' border='0' cellspacing='1'><tr><td bgcolor='#FF0000' style=' border-style:solid; border-width:thin '>&nbsp;</td><td>R&eacuteserv&eacute</td><td>&nbsp;</td><td bgcolor='#00FF00'style=' border-style:solid; border-width:thin ' title='"+vorsaisonpreis+"'>&nbsp;</td><td title='"+vorsaisonpreis+"'>Avant Saison</td><td>&nbsp;</td><td bgcolor='#FFFF00'style=' border-style:solid; border-width:thin '  title='"+hochsaisonpreis+"'>&nbsp;</td><td title='"+hochsaisonpreis+"'>Haute Saison</td><td>&nbsp;</td><td bgcolor='#CCFFCC' style=' border-style:solid; border-width:thin ' title='"+nebensaisonpreis+"'>&nbsp;</td><td title='"+nebensaisonpreis+"'>Hors Saison</td></tr></table>");
 }
 
 </script>

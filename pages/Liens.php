@@ -9,9 +9,6 @@
 <div class="story"> 
 	<h3>Compagnies d'a&eacute;riennes</h3> 
 	<p>
-	 <a href="http://www.airberlin.com/"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">Air Berlin</a>
-	</p> 
-	<p>
 	 <a href="http://www.easyjet.com"onClick="window.open(this.href, '_blank','scrollbars=no,resizable=yes,toolbar=no,directories=no,location=yes,menubar=no,status=no,left=0,top=0');return false">EasyJet</a>
 	</p>
 	<p>

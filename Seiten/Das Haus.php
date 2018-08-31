@@ -6,7 +6,7 @@
 	<br>(Rauchverbot, Haustiere nach Absprache)
 	</p> 
 	<p>
-	Eine Garage f�r 1 Auto steht Ihnen zur Verf&uuml;gung. Ein zweites Fahrzeug kann vor der Garage parkiert werden.
+	Eine Garage f&uuml;r 1 Auto steht Ihnen zur Verf&uuml;gung. Ein zweites Fahrzeug kann vor der Garage parkiert werden.
 	</p> 
 	<p>
 	Im Garten steht neben dem Grill, unter einem grossen, schattenspendenden Baum, ein gem&uuml;tlicher, runder Steintisch.
@@ -37,7 +37,7 @@
 	</p> 
 	<p>
 		
-		<a onclick="window.open(this.href, '_blank', 'width=2048,height=1536,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');return false" href="Photogalerie/Das Haus/Im Haus/slides/129.JPG"><img  src="Photogalerie/Das Haus/Im Haus/slides/129.JPG"alt="K�che" width="40%"></a>
+		<a onclick="window.open(this.href, '_blank', 'width=2048,height=1536,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');return false" href="Photogalerie/Das Haus/Im Haus/slides/129.JPG"><img  src="Photogalerie/Das Haus/Im Haus/slides/129.JPG"alt="K&uuml;che" width="40%"></a>
 		<a onclick="window.open(this.href, '_blank', 'width=2048,height=1536,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');return false" href="Photogalerie/Das Haus/Im Haus/slides/128.JPG"><img  src="Photogalerie/Das Haus/Im Haus/slides/128.JPG"alt="Kleines Badezimmer" width="40%"></a>
 		<a onclick="window.open(this.href, '_blank', 'width=2048,height=1536,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');return false" href="Photogalerie/Das Haus/Im Haus/slides/126.JPG"><img  src="Photogalerie/Das Haus/Im Haus/slides/126.JPG"alt="Grosses Badezimmer" width="40%"></a>
         <a onclick="window.open(this.href, '_blank', 'width=2048,height=1536,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');return false" href="Photogalerie/Das Haus/Im Haus/slides/120.jpg"><img  src="Photogalerie/Das Haus/Im Haus/slides/120.jpg"alt="Wohnzimmer mit Essecke" width="40%"></a>
@@ -63,7 +63,7 @@
 	</p> 
 	<p>
 	<a onclick="window.open(this.href, '_blank', 'width=2048,height=1536,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');return false" href="Photogalerie/Das Haus/Im Haus/slides/131.jpg"><img  src="Photogalerie/Das Haus/Im Haus/slides/131.jpg"alt="Wohnzimmer" width="40%"></a>
-	<a onclick="window.open(this.href, '_blank', 'width=2048,height=1536,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');return false" href="Photogalerie/Das Haus/Im Haus/slides/134.JPG"><img  src="Photogalerie/Das Haus/Im Haus/slides/134.JPG"alt="K�che" width="40%"></a>
+	<a onclick="window.open(this.href, '_blank', 'width=2048,height=1536,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');return false" href="Photogalerie/Das Haus/Im Haus/slides/134.JPG"><img  src="Photogalerie/Das Haus/Im Haus/slides/134.JPG"alt="K&uuml;che" width="40%"></a>
 	<a onclick="window.open(this.href, '_blank', 'width=2048,height=1536,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');return false" href="Photogalerie/Das Haus/Im Haus/slides/133.JPG"><img  src="Photogalerie/Das Haus/Im Haus/slides/133.JPG"alt="Badezimmer" width="40%"></a>
 	<a onclick="window.open(this.href, '_blank', 'width=2048,height=1536,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');return false" href="Photogalerie/Das Haus/Im Haus/slides/132.JPG"><img  src="Photogalerie/Das Haus/Im Haus/slides/132.JPG"alt="2 Bettschlafzimmer" width="40%"></a>
 	<p align="center"> 

@@ -48,7 +48,7 @@ $lang[$german]  = "Fran&ccedil;ais";
   <div id="breadCrumb" align="center">
      | <a href=<?=$main[$language]?>><img src=<?=$Flag[$language]?> width="15px"> <?=$lang[$language]?></a>|
 	  <br>
-    Aktualisiert: 15.02.2017    
+    Aktualisiert: 26.03.2018   
 </div> 
   <div id="navBar"> 
   <div class="relatedLinks"> 
@@ -143,6 +143,8 @@ $lang[$german]  = "Fran&ccedil;ais";
 	Tel.:
 	<br>
 	+41 (0)21 781 23 36
+	<br>
+	<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=BEGIN%3AVCARD%0AVERSION%3A2.1%0ATEL%3BHOME%3BVOICE%3A%2B41217812336%0AEMAIL%3BHOME%3BINTERNET%3Acalpe.spain%40citycable.ch+%0AURL%3Ahttp%3A%2F%2Fespagne-vacances.ch%0AADR%3A%3B%3B%3B%3B%3B%3BSwitzerland%0AORG%3APrivat%0AEND%3AVCARD%0A&amp;qzone=1&amp;margin=0&amp;size=150x150&amp;ecc=L" alt="qr code" width="85%" />
 	</div>
   </div> 
 <div id="content">
