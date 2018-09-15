@@ -27,7 +27,7 @@
 		 <li><a onclick="window.open(this.href,'_blank','width=1536,height=1024,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');return false"  href="Photogalerie/Calpe/Christiano y Moros/index_de.html"> Feste</a> <p>
 		 Spanien ist ein katholisches Land, das gerne feiert, desshalb hat auch Calpe eine Reihe von Festtagen.
 		 <br>
-		 Ein nicht religi&ouml;ses, sondern ein historische Ereignis, die <a href="http://www.morosicristians.com" target="_blank"> Moros y Cristianos</a> findet, wie das popul&auml;re Bierfest, im Oktober statt. Verpassen Sie auf keinem Fall eines der prachtvollen Feuerwerke, die bei keinem festlichen Anlass fehlen. 
+		 Ein nicht religi&ouml;ses, sondern ein historische Ereignis, die <a href="https://www.morosicristians.com" target="_blank"> Moros y Cristianos</a> findet, wie das popul&auml;re Bierfest, im Oktober statt. Verpassen Sie auf keinem Fall eines der prachtvollen Feuerwerke, die bei keinem festlichen Anlass fehlen. 
 		 </p>
 		 </li>
 		 <li>Str&auml;nde<p>
@@ -65,7 +65,7 @@
 		<a onclick="window.open(this.href, '_blank', 'width=1536,height=1024,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');return false" href="Photogalerie/Ausfluege/Ausfluege ins Landesinnere/slides/366.JPG"><img src="Photogalerie/Ausfluege/Ausfluege ins Landesinnere/thumbs/366.JPG"  alt="Parcent" width="35%"></a>		 
 		 <ul>
 		 <li>Wandern<p>
-		 Es gibt in der Region von Calpe eine unglaubliche Anzahl an Wanderwegen. Wegbeschreibungen finden sie auf der Homepage <a href="http://www.wandern-spanien.eu" target="_blank"> "Wandern in Spanien"</a>. 
+		 Es gibt in der Region von Calpe eine unglaubliche Anzahl an Wanderwegen. Wegbeschreibungen finden sie auf der Homepage <a href="https://www.wandern-spanien.eu" target="_blank"> "Wandern in Spanien"</a>. 
 		 </p>
 		 </li>
 		 <li><a href="Photogalerie/Ausfluege/Ifach/index_de.html" target="_blank">Ifach</a><p>
@@ -73,11 +73,11 @@
 		 </p>
 		 </li>
 		 <li><a onclick="window.open(this.href,'_blank','width=1536,height=1024,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');return false"  href="Photogalerie/Ausfluege/Aqualandia/index_de.html"> Aqualandia</a> <p>
-		 Aqualandia ist ein Wasserpark mit vielen Rutschbahnen, einem Wellenbad, dem Idiana Jones Bad, usw. Ff&uuml;r Gross und Klein eine willkommene Abwechslung zum Strandbesuch. Der Park befindet sich in Benidorm (ca.20km von Calpe) und kann mit dem Auto oder mit einer Busorganisation erreicht werden. Mehr Informationen &uuml;ber den Park finden<a href="http://www.aqualandia.net" target="_blank"> Sie hier</a>.
+		 Aqualandia ist ein Wasserpark mit vielen Rutschbahnen, einem Wellenbad, dem Idiana Jones Bad, usw. Ff&uuml;r Gross und Klein eine willkommene Abwechslung zum Strandbesuch. Der Park befindet sich in Benidorm (ca.20km von Calpe) und kann mit dem Auto oder mit einer Busorganisation erreicht werden. Mehr Informationen &uuml;ber den Park finden<a href="https://www.aqualandia.net" target="_blank"> Sie hier</a>.
 		 </p>
 		 </li>
 		 <li>Safaripark<p>
-		 Im Hinterland, ca.40 km von Calpe entfernt, liegt der Safaripark <a href="http://www.safariaitana.com" target="_blank"> Aitana</a>. Sie kf&uuml;nnen ihn mit dem Auto durchfahren und entdecken auf diese Weise L&ouml;wen, Giraffen, Zebras und viele andere Tiere von ganz nahe.
+		 Im Hinterland, ca.40 km von Calpe entfernt, liegt der Safaripark <a href="https://www.safariaitana.com" target="_blank"> Aitana</a>. Sie kf&uuml;nnen ihn mit dem Auto durchfahren und entdecken auf diese Weise L&ouml;wen, Giraffen, Zebras und viele andere Tiere von ganz nahe.
 		 En Vergel liegt in der N&auml;he von Denia und gleicht eher einem Zoo wie wir ihn kennen.
 		 </p>
 		 </li>
