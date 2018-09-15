@@ -45,7 +45,7 @@
 		<a onclick="window.open(this.href, '_blank', 'width=2048,height=1536,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');return false" href="Photogalerie/Das Haus/Im Haus/slides/123.JPG"><img  src="Photogalerie/Das Haus/Im Haus/slides/123.JPG"alt="Doppelbettschlafzimmer" width="40%"></a>
 		<a onclick="window.open(this.href, '_blank', 'width=2048,height=1536,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');return false" href="Photogalerie/Das Haus/Im Haus/slides/124.JPG"><img  src="Photogalerie/Das Haus/Im Haus/slides/124.JPG"alt="2 Bettschlafzimmer mit Notbeet" width="40%"></a>
  <p align="center"> 
-     <a href="http://www.espagne-vacances.ch/homepage_de.php?content=2&PHPSESSID=14172dd298cb0acef4ebf88bfd7d8dcc"><img  src="meinebilder/top.GIF"alt="Top" width="5%"></a>
+     <a href="https://www.espagne-vacances.ch/homepage_de.php?content=2&PHPSESSID=14172dd298cb0acef4ebf88bfd7d8dcc"><img  src="meinebilder/top.GIF"alt="Top" width="5%"></a>
 	</div>
 <hr>
 <div class="story"> 
@@ -67,7 +67,7 @@
 	<a onclick="window.open(this.href, '_blank', 'width=2048,height=1536,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');return false" href="Photogalerie/Das Haus/Im Haus/slides/133.JPG"><img  src="Photogalerie/Das Haus/Im Haus/slides/133.JPG"alt="Badezimmer" width="40%"></a>
 	<a onclick="window.open(this.href, '_blank', 'width=2048,height=1536,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');return false" href="Photogalerie/Das Haus/Im Haus/slides/132.JPG"><img  src="Photogalerie/Das Haus/Im Haus/slides/132.JPG"alt="2 Bettschlafzimmer" width="40%"></a>
 	<p align="center"> 
-     <a href="http://www.espagne-vacances.ch/homepage_de.php?content=2&PHPSESSID=14172dd298cb0acef4ebf88bfd7d8dcc"><img  src="meinebilder/top.GIF"alt="Top" width="5%"></a>
+     <a href="https://www.espagne-vacances.ch/homepage_de.php?content=2&PHPSESSID=14172dd298cb0acef4ebf88bfd7d8dcc"><img  src="meinebilder/top.GIF"alt="Top" width="5%"></a>
 	</p>  
 	</p>
 </div>
